@@ -94,8 +94,66 @@ As the battle rages on, friendships are tested, sacrifices are made, and the fat
 Prepare for an exhilarating journey filled with thrilling battles, emotional encounters, and unexpected twists in Star Wars: Resistance in Ruins. May the Force be with them all.
 ````
 
+### Crie uma imagem de um poster para esse filme.
+
+Estão na pasta Posters
+
+### Qual é a diferença entre o Excel e o google spreadsheets?
+````
+
+Tanto o Excel quanto o Google Spreadsheets são aplicativos de planilha eletrônica populares usados para armazenar, organizar, calcular e analisar dados. Embora ambos tenham funcionalidades semelhantes e compartilhem o objetivo de manipular dados em formato de planilha, existem algumas diferenças importantes entre eles. Aqui estão algumas das principais diferenças entre o Excel e o Google Spreadsheets:
+
+Plataforma: O Excel é um aplicativo desktop desenvolvido pela Microsoft e faz parte do pacote Microsoft Office. Ele é instalado localmente no computador e requer uma licença para uso. Já o Google Spreadsheets é uma ferramenta baseada na nuvem, acessível por meio de um navegador da web e está disponível gratuitamente para usuários com uma conta do Google.
+
+Colaboração em tempo real: Uma das principais vantagens do Google Spreadsheets é a capacidade de colaboração em tempo real. Vários usuários podem trabalhar na mesma planilha simultaneamente, visualizando as atualizações em tempo real. No Excel, embora seja possível compartilhar planilhas e colaborar, a funcionalidade de colaboração em tempo real é limitada e pode exigir o uso de serviços adicionais, como o Microsoft SharePoint.
+
+Recursos e compatibilidade: O Excel é conhecido por sua rica variedade de recursos e funcionalidades avançadas. Ele oferece uma ampla gama de recursos de análise de dados, gráficos, formatação condicional e recursos avançados de automação, como macros. O Google Spreadsheets, embora tenha uma lista crescente de recursos, pode ser mais limitado em comparação com o Excel em termos de funcionalidades avançadas.
+
+Integração com outras ferramentas: O Excel é amplamente utilizado em ambientes corporativos e é conhecido por sua integração com outras ferramentas da Microsoft, como o Word e o PowerPoint. Ele também oferece suporte a uma ampla variedade de complementos e extensões de terceiros. O Google Spreadsheets se integra bem com outras ferramentas do Google, como o Google Docs e o Google Drive, e também oferece suporte a alguns complementos de terceiros.
+
+Armazenamento e acesso aos dados: O Excel armazena dados localmente no computador em que está instalado, o que significa que você precisa ter acesso ao arquivo para trabalhar com ele. Por outro lado, o Google Spreadsheets armazena os dados na nuvem, permitindo que você acesse e trabalhe em suas planilhas de qualquer dispositivo conectado à internet.
+
+Essas são apenas algumas das diferenças entre o Excel e o Google Spreadsheets. A escolha entre os dois depende das necessidades individuais, preferências e dos recursos disponíveis em cada plataforma. Ambos os aplicativos são poderosos e adequados para diferentes contextos de uso.
+````
+### Crie uma tabela com os 10 países mais populosos da Europa. Ela vai ter 3 colunas. Na primeira coluna você terá o nome do país; na segunda coluna, a capital desse país; e na terceira coluna, a população desse país.
 
 
+| País          | Capital        | População (estimativa) |
+| ------------- | -------------- | ---------------------- |
+| Rússia        | Moscou         | 145.912.025           |
+| Alemanha      | Berlim         | 83.166.711             |
+| Reino Unido   | Londres        | 67.886.011             |
+| França        | Paris          | 65.426.179             |
+| Itália        | Roma           | 60.551.000             |
+| Espanha       | Madrid         | 46.754.778             |
+| Ucrânia       | Kiev           | 44.540.000             |
+| Polônia       | Varsóvia       | 38.433.600             |
+| Romênia       | Bucareste      | 19.679.306             |
+| Holanda       | Amsterdã       | 17.693.443             |
+
+
+
+### Crie cinco ideias para uma campanha promocional de lançamento de um novo filme, cuja sinopse é...
+
+````
+1. Campanha "A Força Resiste": Destaque a união e a determinação da Resistência em enfrentar as forças sombrias do lado negro. Utilize imagens dos personagens principais, Rey, Finn e Poe Dameron, em meio às ruínas da cidade de Oz, transmitindo a mensagem de que mesmo diante da destruição, a esperança prevalece.
+
+2. Promoção "Junte-se à Resistência": Crie uma ação promocional onde os fãs do universo Star Wars possam se tornar "membros da Resistência". Ao comprar ingressos antecipadamente, os participantes receberiam um distintivo exclusivo da Resistência e teriam acesso a conteúdos extras, como entrevistas com os atores e bastidores das gravações.
+
+3. Concurso "Descubra a Relíquia Poderosa": Promova um concurso online em que os participantes devem decifrar enigmas e pistas relacionadas à relíquia antiga e poderosa mencionada na sinopse do filme. Aqueles que conseguirem desvendar o mistério poderiam ganhar uma viagem para visitar os bastidores do filme ou ingressos para a estreia mundial.
+
+4. Parceria "Star Wars: Oz Apocalipse X Tecnologia": Explore a temática de tecnologia e conhecimento presentes na cidade de Oz. Estabeleça parcerias com empresas de tecnologia para oferecer brindes exclusivos, como gadgets inspirados no filme ou promoções especiais para quem assistir ao filme e adquirir produtos relacionados à tecnologia.
+
+5. Experiência Imersiva "Aventura em Oz": Crie uma experiência imersiva em realidade virtual ou em um espaço físico temático, onde os fãs possam vivenciar um trecho da missão da Resistência em infiltrar-se na cidade de Oz. Utilize efeitos especiais, sons e cenários inspirados no filme para proporcionar aos participantes uma experiência única e emocionante.
+````
+
+### Crie um título e uma legenda atraentes para um post no Instagram sobre a estreia de um novo filme, cuja sinopse é...
+
+````
+Título: "Star Wars: Oz Apocalipse - Uma Jornada Épica pela Liberdade!"
+
+Legenda: "Prepare-se para uma aventura única! Em um futuro distante, a Resistência enfrenta o lado negro em meio ao caos pós-apocalíptico de Oz. Heróis improváveis, duelos de sabre de luz e reviravoltas emocionantes aguardam você nesta batalha épica pela liberdade. Mergulhe na magia da esperança e da coragem enquanto galáxias distantes e cidades devastadas se unem. Que a Força esteja com eles. #StarWarsOzApocalipse #BatalhaPelaLiberdade
+````
 
 ---
 
